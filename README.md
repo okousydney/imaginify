@@ -1,4 +1,7 @@
 <a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+## <a name="snippets">Production</a>
+
+Deployed with Vercel: https://imaginify-eight-iota.vercel.app/ 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -54,4 +57,4 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="snippets">🕸️ Snippets</a>
+
